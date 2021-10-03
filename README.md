@@ -1,2 +1,2 @@
-# Random-memes
-Random meme susing Reddit API
+# Random-memes 
+Random meme fetching using AJAX with Reddit API
